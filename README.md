@@ -26,3 +26,27 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rouaarz&label=Profile%20Views&color=FF5733&style=flat" alt="Profile Views Counter"/>
 </p>
+
+## Tech Stack
+
+### Programming Languages
+- **C**, **C#**, **C++**, **Dart**, **Java**, **JavaScript**, **Kotlin**, **PHP**, **Python**, **TypeScript**
+
+### Web Technologies
+- **HTML5**, **CSS3**, **JavaScript**, **React**, **Vue.js**, **Angular**, **Bootstrap**, **SASS**, **Vuetify**, **Thymeleaf**
+
+### Frameworks & Libraries
+- **.NET**, **Flutter**, **Flask**, **Express.js**, **Laravel**, **Node.js**, **Chart.js**
+
+### Databases
+- **MySQL**, **MongoDB**, **Oracle**, **Firebase**
+
+### Tools & Platforms
+- **Git**, **GitLab**, **GitHub Pages**, **Jira**, **Adobe Photoshop**, **Adobe XD**, **Canva**
+
+### Markup & Documentation
+- **LaTeX**, **Markdown**
+
+<p align="center">
+  <img src="https://tse2.mm.bing.net/th?id=OIP.dpgaOJAOodhXTcFeY9aa5wHaDP&w=207&h=207&c=7" alt="Description de l'image" width="207"/>
+</p>
