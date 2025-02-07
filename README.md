@@ -16,7 +16,7 @@
 - 🔗 Linkedin: [https://www.linkedin.com/in/rzaigui-roua-8447862b1](https://www.linkedin.com/in/rzaigui-roua-8447862b1)
 
 <p align="center">
-  <img src="https://github.com/masum184e/Masum184e/raw/main/coding.gif" width="800px" />
+  <img src="https://github.com/masum184e/Masum184e/raw/main/coding.gif" width="700px" />
 </p>
 
 
