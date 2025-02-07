@@ -1,22 +1,25 @@
 ### Hi 👋, I'm ROUA RZAIGUI
 
 ---
-
-- 🎓 Currently, I am a **Full-Stack Developer**, passionate about Web & Mobile Development.
-- 📫 How to reach me: [rzaiguiroua@gmail.com](mailto:rzaiguiroua@gmail.com)
-- 🔗 Linkedin: [https://www.linkedin.com/in/rzaigui-roua-8447862b1](https://www.linkedin.com/in/rzaigui-roua-8447862b1)
-
-<p align="center">
-  <img src="https://github.com/masum184e/Masum184e/raw/main/coding.gif" width="600px" />
-</p>
-
-<p align="center">
+  <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Passionate+about+Technology;Building+awesome+projects!;Let's+connect+and+collaborate!+🚀" />
 </p>
+
+
+
+- 🎓 Currently, I am a **Full-Stack Developer**, passionate about Web & Mobile Development.
+- 📫 How to reach me: [rzaiguiroua@gmail.com](mailto:rzaiguiroua@gmail.com)
+- 🔗 Linkedin: [https://www.linkedin.com/in/rzaigui-roua-8447862b1](https://www.linkedin.com/in/rzaigui-roua-8447862b1)
+
+<p align="center">
+  <img src="https://github.com/masum184e/Masum184e/raw/main/coding.gif" width="800px" />
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/rouaarz">
